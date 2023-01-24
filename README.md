@@ -1,4 +1,4 @@
-<![MasterHead](https://www.behance.net/gallery/116770475/Animated-illustrations)>
+<![MasterHead]([https://www.behance.net/gallery/116770475/Animated-illustrations](https://mir-s3-cdncf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif))>
 <h1 align="center">Hi 👋, I'm Megha Nair</h1>
 <h3 align="center">An enthusiastic user who is eager to gain new technical skills</h3>
 
