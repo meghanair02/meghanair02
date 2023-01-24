@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megha Nair</h1>
 <h3 align="center">An enthusiastic user who is eager to gain new technical skills</h3>
-<img align="right" alt="Coding" width="400" src="">
 
 - 🔭 I’m currently working on [A Blogging Website](https://github.com/meghanair02/Meraki_website)
 
