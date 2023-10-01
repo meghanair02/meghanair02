@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Megha Manoj Nair</h1>
+<div align="center"> <img src="https://drive.google.com/file/d/1vmPHR58LNSmMBAWTJYjc_jKvU1G2n1zr/view?usp=sharing"> </div>
 <h3 align="center">Pioneering the future of tech-savvy management with a unique perspective!</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\Megha Nair\Downloads\WhatsApp Image 2023-08-13 at 7.46.05 PM.jpeg">
 
 - 🔭 I’m currently working on **Smart AI Chat**
 
