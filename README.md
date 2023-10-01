@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Megha Manoj Nair</h1>
-<div align="center"> <img src="https://drive.google.com/file/d/1vmPHR58LNSmMBAWTJYjc_jKvU1G2n1zr/view?usp=sharing"> </div>
 <h3 align="center">Pioneering the future of tech-savvy management with a unique perspective!</h3>
 
 - 🔭 I’m currently working on **Smart AI Chat**
