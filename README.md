@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Megha Nair</h1>
 <h3 align="center">An enthusiastic user who is eager to gain new technical skills</h3>
 
-- 🔭 I’m currently working on [A Blogging Website](https://github.com/meghanair02/Meraki_website)
+- 🔭 I’m currently working on [A Smart AI Chat Project]
 
-- 🌱 I’m currently learning **Python, DevOps**
+- 🌱 I’m currently learning **Python, SQL**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Data Analytics Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/meghanair02](https://github.com/meghanair02)
 
