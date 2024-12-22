@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Megha Manoj Nair</h1>
 <h3 align="center">Pioneering the future of tech-savvy management with a unique perspective!</h3>
 
-- 🔭 I’m currently working on **Smart AI Chat**
+- 🔭 I’m currently working on **Job Application Management System**
 
 - 🌱 I’m currently learning **Python, R, SQL**
 
